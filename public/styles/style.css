@@ -1,0 +1,14 @@
+body {
+  background: url("/images/spotify-background.jpeg") no-repeat center center;
+  background-size:auto;
+  height: 100%;
+}
+
+.search {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  /* justify-items: center; */
+}
